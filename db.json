@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Axel Blaze",
+      "username": "axel",
+      "email": "axelb@gmail.com",
+      "phone": "+917905284334"
+    },
+    {
+      "id": 2,
+      "name": "Jack Skellington",
+      "username": "jack",
+      "email": "jacks@gmail.com",
+      "phone": "+917905284336"
+    },
+    {
+      "id": 3,
+      "name": "Jerry M",
+      "username": "jerry",
+      "email": "jerrym@gmail.com",
+      "phone": "+917905284337"
+    },
+    {
+      "id": 4,
+      "name": "Tom C",
+      "username": "tom",
+      "email": "tomc@gmail.com",
+      "phone": "+917905284338"
+    },
+    {
+      "id": 5,
+      "name": "Oggy",
+      "username": "oggy",
+      "email": "oggy@gmail.com",
+      "phone": "+917905284339"
+    }
+  ]
+}
